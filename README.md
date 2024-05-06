@@ -2,8 +2,8 @@
 
 Analysis of Carbon Emissions for CMSC320
 
-# header 1
-Spring 2024 Data Science Project
+
+## Spring 2024 Data Science Project
 
 The dataset above analyzes the lifestyles of 10000 individuals to determine their carbon footprints. The dataset analyzes the body type, gender, diet, trash and recycling habits, transportation modes, and cooking methods to determine their carbon footprint. Our goal is to analyze each variable to determine how those variables affect overall carbon output.
 
