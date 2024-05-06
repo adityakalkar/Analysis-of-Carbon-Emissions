@@ -1,6 +1,6 @@
 # Analysis-of-Carbon-Emissions
 
-Analysis of Carbon Emissions for CMSC320
+Aditya Kalkar, Suhas Anumukonda, Tom Lazzarini
 
 
 ## Spring 2024 Data Science Project
