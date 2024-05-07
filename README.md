@@ -10,14 +10,6 @@ Our datatset analyzes the lifestyles of 10000 individuals to determine their car
 From unpredictable weather to flash fires, global climate change has done irreparable damage to our planet, and if action is not taken, we will continue to see the consequences of greenhouse gas emissions. As a result, we feel it is essential to analyze our daily habits to understand how we are contributing to global climate change as individuals. By performing data analysis on the carbon emissions dataset, we can understand what specific habits contribute to climate change, and change our ways to begin healing our planet
 
 
-### Table of Contents
-
-1. Data Collection
-2. Data Cleaning/Processing
-3. Exploratory Analysis & Data Visualization
-4. 
-
-
 
 
 
