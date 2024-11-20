@@ -1,6 +1,6 @@
 # Analysis-of-Carbon-Emissions
 
-Aditya Kalkar, Suhas Anumukonda, Tom Lazzarini
+
 
 
 ## Spring 2024 Data Science Project
